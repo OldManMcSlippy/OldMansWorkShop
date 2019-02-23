@@ -1,1 +1,3 @@
 Damage Reduction Armor
+Skills with 4 levels. Rote Training. Routine Competence. Basic Mastery. Mastery.
+1st level: +1 modifier. 2nd level: +2. 3rd level: +4. 4th level: +8.
